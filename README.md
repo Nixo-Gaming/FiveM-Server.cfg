@@ -1,3 +1,3 @@
-# FiveM-Server-CFG
+# FiveM-Server
 
 Dies ist eine Vorlage für die Server CFG in FiveM.
